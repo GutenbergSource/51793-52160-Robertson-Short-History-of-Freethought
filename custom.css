@@ -1,0 +1,21 @@
+
+div.footnote-body {
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+}
+
+
+div.index .divBody {
+    -webkit-column-count: 3;
+    -moz-column-count: 3;
+    column-count: 3;
+}
+
+div.index p {
+    margin-left: 1em;
+    text-indent: -1em;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
